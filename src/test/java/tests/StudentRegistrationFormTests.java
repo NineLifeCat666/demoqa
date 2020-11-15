@@ -83,7 +83,6 @@ public class StudentRegistrationFormTests {
     $x("//td[text()='State and City']").parent().shouldHave(text(state + " " + city));
 
 
-//    open("https://demoqa.com/automation-practice-form");
 
 
     }
